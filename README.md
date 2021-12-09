@@ -7,3 +7,4 @@
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
 |  01     |   A03          |   Banner                     |
+|  02   | A04   | Hashmat   |
